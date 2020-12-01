@@ -50,6 +50,8 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Curriculum Vitae
+    url:               https://github.com/dhchung/curriculum_vitae/blob/master/dongha_chung_CV.pdf
   - title:             SLAM
     url:               /slam/
 
@@ -187,7 +189,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+# disqus:                donghachung
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
