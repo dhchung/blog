@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Computer Vision] Bundle Adjustment PT1'
-category: slam
+category: computer_vision
 description: >
   Bundle Adjustment
 # comments: true

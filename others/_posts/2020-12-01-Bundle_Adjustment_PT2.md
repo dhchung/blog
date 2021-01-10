@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Computer Vision] Bundle Adjustment PT2'
-category: slam
+category: computer_vision
 description: >
   Neumerics of BA
 # comments: true

@@ -54,6 +54,12 @@ menu:
     url:               https://github.com/dhchung/curriculum_vitae/blob/master/dongha_chung_CV.pdf
   - title:             SLAM
     url:               /slam/
+  - title:             Others
+    url:               /others/
+  - title:             etc.
+    url:               /etc/
+  - title:             Research Log
+    url:               /rlog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
